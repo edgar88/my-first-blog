@@ -1,0 +1,1 @@
+C:\study\djangogirls\myvenv\Scripts\activate
